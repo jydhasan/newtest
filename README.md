@@ -45,3 +45,13 @@ git push -u origin main
     রিমোট লিঙ্ক চেক করতে: git remote -v
 
     ভুল লিঙ্ক ডিলিট করতে: git remote remove origin
+
+
+## Remaining File upload
+---
+```
+git add .
+git commit -m "Update fixed some bugs"
+git push
+```
+
